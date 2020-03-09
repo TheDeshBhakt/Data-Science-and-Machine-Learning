@@ -13,5 +13,9 @@ It Includes DataScience python library like
 ##### Link to the Datasets using in the DeepWalk to find similar wikipedia pages
 [https://drive.google.com/open?id=1C8ObkgdWh-LVqC3d9e1n2V1CWKYQgh2D]
 
+#### For getting Wikipedia graph Dataset:
+*There is Tool Seealsology* It helps to cretae graphs from any Wikipedia pages. We also give multiple wikipedia pages as input!!
+@@ [https://densitydesign.github.io/strumentalia-seealsology/]
+
 
 
