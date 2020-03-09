@@ -10,5 +10,8 @@ It Includes DataScience python library like
 - Matplotlib
 - Pandas
 
+##### Link to the Datasets using in the DeepWalk to find similar wikipedia pages
+[https://drive.google.com/open?id=1C8ObkgdWh-LVqC3d9e1n2V1CWKYQgh2D]
+
 
 
